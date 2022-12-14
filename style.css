@@ -1,3 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=Roboto:wght@700&display=swap");
 * {
   box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.top-navbar {
+  display: flex;
+}
+.nav-ul {
+  display: flex;
+  margin-right: auto;
+  margin-top: 44px;
+  list-style-type: none;
+}
+.img-div {
+  margin-top: 43px;
+  margin-left: 110px;
+}
+.nav-ul li a {
+  font-family: "DM Sans", sans-serif;
+  font-size: 17px;
+  text-decoration: none;
+  margin-right: 26px;
+  color: black;
 }
