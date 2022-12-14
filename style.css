@@ -7,6 +7,7 @@ body {
 }
 .top-navbar {
   display: flex;
+  margin-bottom: 43px;
 }
 .nav-ul {
   display: flex;
@@ -41,4 +42,16 @@ body {
   margin-right: 110px;
   background-color: none;
   border: none;
+}
+.container {
+  display: flex;
+  margin-left:100px ;
+}
+.img {
+  width: 677px;
+  height: 869px;
+  left: 763px;
+}
+.content {
+  
 }
