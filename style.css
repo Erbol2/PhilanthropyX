@@ -53,5 +53,14 @@ body {
   left: 763px;
 }
 .content {
-  
+  margin-top: 207px;
+}
+.content h1 {
+  font-family: 'Roboto', sans-serif;;
+font-size: 60px;
+}
+.content p {
+  font-size: 24px;
+  font-family: "DM Sans", sans-serif;
+  color: rgba(0, 0, 0, 0.286);
 }
