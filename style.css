@@ -42,22 +42,26 @@ body {
   margin-right: 110px;
   background-color: none;
   border: none;
+  background: none;
 }
 .container header {
   display: flex;
   margin-left:100px ;
 }
 .img {
-  width: 617px;
+  flex: 0 0 45%;
+  width: 577px;
   height: 809px;
   left: 703px;
+  margin-left: 40px;
 }
 .content {
+  flex: 0 0 44%;
   margin-top: 207px;
 }
 .content h1 {
   font-family: 'Roboto', sans-serif;
-font-size: 50px;
+font-size: 60px;
 }
 .content p {
   font-size: 20px;
