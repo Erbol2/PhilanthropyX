@@ -56,11 +56,46 @@ body {
   margin-top: 207px;
 }
 .content h1 {
-  font-family: 'Roboto', sans-serif;;
+  font-family: 'Roboto', sans-serif;
 font-size: 60px;
 }
 .content p {
   font-size: 24px;
   font-family: "DM Sans", sans-serif;
   color: rgba(0, 0, 0, 0.286);
+  margin-bottom: 44px;
+}
+.white-btn {
+  padding: 0;
+  border: none;
+}
+.white-btn a {
+ padding: 26px 32px 26px 32px;
+ background-color: white;
+ border: none;
+ font-size: 18px;
+ font-weight: 700;
+ font-family: "DM Sans", sans-serif; 
+ border-radius: 10px;
+ border: 1px solid rgba(0, 0, 0, 0.1);
+ color: black;
+ text-decoration: none;
+ line-height: 20px;
+ margin-left: -70px;
+}
+.orange-btn {
+  padding: 0;
+  border: none;
+}
+.orange-btn a {
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  background-color: orange;
+  border-radius: 10px;
+  border: none;
+  padding: 24px 38px 28px 38px;
+  line-height: 20px;
 }
