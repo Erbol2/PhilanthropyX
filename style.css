@@ -43,24 +43,24 @@ body {
   background-color: none;
   border: none;
 }
-.container {
+.container header {
   display: flex;
   margin-left:100px ;
 }
 .img {
-  width: 677px;
-  height: 869px;
-  left: 763px;
+  width: 617px;
+  height: 809px;
+  left: 703px;
 }
 .content {
   margin-top: 207px;
 }
 .content h1 {
   font-family: 'Roboto', sans-serif;
-font-size: 60px;
+font-size: 50px;
 }
 .content p {
-  font-size: 24px;
+  font-size: 20px;
   font-family: "DM Sans", sans-serif;
   color: rgba(0, 0, 0, 0.286);
   margin-bottom: 44px;
@@ -70,7 +70,7 @@ font-size: 60px;
   border: none;
 }
 .white-btn a {
- padding: 26px 32px 26px 32px;
+ padding: 24px 30px 22px 30px;
  background-color: white;
  border: none;
  font-size: 18px;
@@ -96,6 +96,6 @@ font-size: 60px;
   background-color: orange;
   border-radius: 10px;
   border: none;
-  padding: 24px 38px 28px 38px;
+  padding: 22px 36px 26px 36px;
   line-height: 20px;
 }
