@@ -45,7 +45,8 @@ body {
   background: none;
 }
 .container {
-  max-width: 1378;
+  max-width: 1378px;
+  margin: 0 auto;
 }
 .container header {
   display: flex;
@@ -142,5 +143,5 @@ body {
   font-weight: 400;
   font-family: "DM Sans", sans-serif;
   color: #6e6e6e;
-  
+  margin-bottom: 70px;
 }
