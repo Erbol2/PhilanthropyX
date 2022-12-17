@@ -119,3 +119,14 @@ body {
   display: flex;
   margin-top: 120px;
 }
+.font-roboto {
+  font-size: 60px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+}
+.orange-text {
+  font-size: 60px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+  color: orange;
+}
