@@ -27,8 +27,7 @@ body {
   margin-right: 26px;
   color: black;
 }
-.btn a {
-  text-decoration: none;
+.btn {
   font-family: "DM Sans", sans-serif;
   font-weight: 700;
   font-size: 16px;
@@ -36,8 +35,6 @@ body {
   padding: 16px 24px 20px 24px;
   background-color: orange;
   border-radius: 10px;
-}
-.btn {
   margin-top: 32px;
   margin-right: 110px;
   background-color: none;
@@ -73,11 +70,8 @@ body {
   color: rgba(0, 0, 0, 0.286);
   margin-bottom: 44px;
 }
+
 .white-btn {
-  padding: 0;
-  border: none;
-}
-.white-btn a {
   padding: 24px 30px 22px 30px;
   background-color: white;
   border: none;
@@ -92,10 +86,6 @@ body {
   margin-left: -70px;
 }
 .orange-btn {
-  padding: 0;
-  border: none;
-}
-.orange-btn a {
   text-decoration: none;
   color: black;
   font-family: "Roboto", sans-serif;
