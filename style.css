@@ -245,10 +245,16 @@ main h1 {
 .card-text {
   margin-left: 10px;
 }
-
+.background-color {
+  background-color: #FFD4A4;
+  text-align: center;
+  padding-top: 198px;
+  padding-bottom: 397px;
+}
 .black-btn {
   color: white;
   background-color: black;
+  margin-left: 155px;
 }
 .black-text {
   font-size: 18px;
