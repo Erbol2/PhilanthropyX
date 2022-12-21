@@ -245,3 +245,7 @@ main h1 {
 .card-text {
   margin-left: 10px;
 }
+.black-btn {
+  color: white;
+  background-color: black;
+}
