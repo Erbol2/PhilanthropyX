@@ -98,9 +98,7 @@ body {
   line-height: 20px;
 }
 
-.col-3:nth-child(1) {
-  padding-left: 120px;
-}
+
 .block-div {
   display: flex;
 }
@@ -171,7 +169,7 @@ main h1 {
 }
 .card {
   display: flex;
-  margin: 300px 100px 0px 100px;
+  margin: 300px 100px 200px 100px;
 }
 .card-content {
   margin-top: 90px;
@@ -200,6 +198,10 @@ main h1 {
   flex-basis: 25%;
   flex-grow: 0;
   flex-shrink: 0;
+  padding-left: 50px;
+}
+.col-3:nth-child(1) {
+  padding-left: 100px;
 }
 .col-4 {
   /* 100% / 12 * 4 */
