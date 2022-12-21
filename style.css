@@ -245,7 +245,13 @@ main h1 {
 .card-text {
   margin-left: 10px;
 }
+
 .black-btn {
   color: white;
   background-color: black;
+}
+.black-text {
+  font-size: 18px;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
 }
