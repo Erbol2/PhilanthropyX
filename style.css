@@ -266,3 +266,7 @@ main h1 {
   font-weight: 700;
   font-family: "Roboto", sans-serif;
 }
+.video {
+  margin-top: -300px;
+  margin-left: 100px;
+}
