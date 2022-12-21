@@ -97,12 +97,7 @@ body {
   padding: 22px 36px 26px 36px;
   line-height: 20px;
 }
-.col-3 {
-  flex-basis: 25%;
-  flex-grow: 0;
-  flex-shrink: 0;
-  padding-left: 70px;
-}
+
 .col-3:nth-child(1) {
   padding-left: 120px;
 }
@@ -164,7 +159,7 @@ main h1 {
   text-align: start;
 }
 .small-img {
-  margin: 0px 28px 32px 0px ;
+  margin: 0px 28px 32px 0px;
 }
 .div-btn {
   display: flex;
@@ -176,6 +171,11 @@ main h1 {
 }
 .card {
   display: flex;
+  margin: 300px 100px 0px 100px;
+}
+.card-content {
+  margin-top: 90px;
+  
 }
 .col-6 {
   display: flex;
@@ -197,20 +197,21 @@ main h1 {
   flex: 16.6% 0 0;
 }
 .col-3 {
-  flex-basis: 25% ;
+  flex-basis: 25%;
   flex-grow: 0;
   flex-shrink: 0;
 }
-.col-4 { /* 100% / 12 * 4 */
+.col-4 {
+  /* 100% / 12 * 4 */
   flex-basis: 33.3%;
   flex-grow: 0;
   flex-shrink: 0;
 }
 .col-5 {
-flex: 41.6% 0 0;
+  flex: 41.6% 0 0;
 }
 .col-6 {
-  flex: 50% 0 0 ;
+  flex: 50% 0 0;
 }
 .col-7 {
   flex: 58.3% 0 0;
@@ -225,8 +226,20 @@ flex: 41.6% 0 0;
   flex: 83% 0 0;
 }
 .col-11 {
- flex: 91.6% 0 0;
+  flex: 91.6% 0 0;
 }
 .col-12 {
   flex: 100% 0 0;
+}
+.font-small-roboto {
+  margin: 0;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Roboto", sans-serif;
+}
+.card-little-text {
+  margin-top: 0;
+}
+.card-text {
+  margin-left: 10px;
 }
