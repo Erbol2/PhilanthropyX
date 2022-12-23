@@ -275,6 +275,7 @@ main h1 {
 .video-text {
   margin-left: 100px;
   margin-right: 100px;
+  margin-top:20px;
 }
 .topside {
   display: flex;
