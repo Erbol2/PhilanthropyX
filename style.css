@@ -289,4 +289,16 @@ main h1 {
  margin-left: 100px;
  margin-top: 190px
 }
+.video-text img {
+  margin-left: 100px;
+}
+.video-text h2 {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 22px;
+}
+.video-text .center-text {
+  text-align: center;
+}
 
