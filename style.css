@@ -276,3 +276,11 @@ main h1 {
   margin-left: 100px;
   margin-right: 100px;
 }
+.topside {
+  display: flex;
+  margin-left: 100px;
+}
+.topside h1 {
+  margin-right: auto;
+}
+
