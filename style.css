@@ -305,6 +305,20 @@ main h1 {
   display: flex;
   border-radius: 20px;
   background-color: #ff9c08;
-  padding: 140px 20px 160px 60px;
   margin: 100px;
+  padding: 140px 20px 160px 20px;
+}
+.orange-card .btn.white-btn {
+  margin-right: -260px;
+}
+.orange-card img {
+  margin-top: -145px;
+  margin-left: -60px;
+}
+.orange-card h1 {
+  margin-left: -260px;
+}
+.vector {
+  margin-bottom: -200px;
+  margin-right: -30px;
 }
