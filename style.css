@@ -275,7 +275,7 @@ main h1 {
 .video-text {
   margin-left: 100px;
   margin-right: 100px;
-  margin-top:20px;
+  margin-top: 20px;
 }
 .topside {
   display: flex;
@@ -286,8 +286,8 @@ main h1 {
   margin-right: auto;
 }
 .paragraph {
- margin-left: 100px;
- margin-top: 190px
+  margin-left: 100px;
+  margin-top: 190px;
 }
 .video-text img {
   margin-left: 100px;
@@ -301,4 +301,10 @@ main h1 {
 .video-text .center-text {
   text-align: center;
 }
-
+.orange-card {
+  display: flex;
+  border-radius: 20px;
+  background-color: #ff9c08;
+  padding: 140px 20px 160px 60px;
+  margin: 100px;
+}
