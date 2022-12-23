@@ -98,7 +98,6 @@ body {
   line-height: 20px;
 }
 
-
 .block-div {
   display: flex;
 }
@@ -173,7 +172,6 @@ main h1 {
 }
 .card-content {
   margin-top: 90px;
-  
 }
 .card-icon {
   display: flex;
@@ -246,7 +244,7 @@ main h1 {
   margin-left: 10px;
 }
 .background-color {
-  background-color: #FFD4A4;
+  background-color: #ffd4a4;
   text-align: center;
   padding-top: 198px;
   padding-bottom: 397px;
@@ -273,4 +271,8 @@ main h1 {
 .icon {
   margin-left: 530px;
   margin-top: -450px;
+}
+.video-text {
+  margin-left: 100px;
+  margin-right: 100px;
 }
