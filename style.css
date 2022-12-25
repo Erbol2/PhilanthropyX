@@ -4,7 +4,6 @@
 }
 body {
   margin: 0;
-  background-color: #fef9f2;
 }
 .top-navbar {
   display: flex;
@@ -352,4 +351,10 @@ main h1 {
   margin-left: 350px;
 
   position: absolute;
+}
+.row .col-12 {
+  text-align: center;
+}
+.row .col-12 p {
+  text-align: center;
 }
