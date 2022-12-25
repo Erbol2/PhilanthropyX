@@ -306,10 +306,11 @@ main h1 {
   border-radius: 20px;
   background-color: #ff9c08;
   margin: 100px;
-  padding: 140px 20px 160px 20px;
+  padding: 140px 20px 80px 20px;
 }
 .orange-card .btn.white-btn {
   margin-right: -260px;
+  width: 390px;
 }
 .orange-card img {
   margin-top: -145px;
@@ -326,6 +327,4 @@ main h1 {
   width: 260px;
   height: 70px;
 }
-.orange-card .btn.white-btn {
-  width: 390px;
-}
+
