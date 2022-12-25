@@ -383,3 +383,21 @@ main h1 {
   position: absolute;
   background-color: white;
 }
+.black-little-text {
+  font-size: 16px;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400;
+  margin-right: 30px ;
+}
+.white-blocks .little-text {
+  margin-bottom: 25px;
+}
+.white-blocks .title-font-roboto {
+  font-size: 24px;
+}
+.white-blocks a {
+  text-decoration: none;
+  color: black;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 700;
+}
