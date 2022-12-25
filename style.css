@@ -327,4 +327,12 @@ main h1 {
   width: 260px;
   height: 70px;
 }
-
+.card.reverse-card .card-content {
+  margin-top: 60px;
+}
+.reverse-card .card-content {
+  margin-left: 100px;
+} 
+.card.reverse-card .little-text {
+  margin-bottom: 10px;
+}
