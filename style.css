@@ -358,3 +358,28 @@ main h1 {
 .row .col-12 p {
   text-align: center;
 }
+.row.photos {
+  margin-left: 100px;
+  margin-right: 100px;
+  position: relative;
+}
+.white-blocks .col-4:nth-child(1) {
+  width: 510px;
+  height: 300px;
+  padding: 40px 60px 10px 45px;
+  border: 1px solid rgba(0, 0, 0, 0.152);
+  border-radius: 10px;
+  margin: -70px 150px 0px 110px;
+  position: absolute;
+  background-color: white;
+}
+.white-blocks .col-4:nth-child(2) {
+  width: 510px;
+  height: 300px;
+  padding: 40px 60px 10px 45px;
+  border: 1px solid rgba(0, 0, 0, 0.152);
+  border-radius: 10px;
+  margin: -70px 698px;
+  position: absolute;
+  background-color: white;
+}
