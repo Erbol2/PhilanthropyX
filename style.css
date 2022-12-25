@@ -4,6 +4,7 @@
 }
 body {
   margin: 0;
+  background-color: #fef9f2;
 }
 .top-navbar {
   display: flex;
@@ -342,7 +343,7 @@ main h1 {
 .white-block {
   color: black;
   background-color: white;
-  box-shadow: 2px 3px 10px black;
+  border: 1px solid rgba(0, 0, 0, 0.159);
   border-radius: 10px;
   padding: 40px 43px 60px 41px;
   width: 370px;
