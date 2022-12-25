@@ -322,3 +322,10 @@ main h1 {
   margin-bottom: -200px;
   margin-right: -30px;
 }
+.orange-card .btn {
+  width: 260px;
+  height: 70px;
+}
+.orange-card .btn.white-btn {
+  width: 390px;
+}
