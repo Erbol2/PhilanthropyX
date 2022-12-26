@@ -183,6 +183,10 @@ main h1 {
   height: 78px;
   margin-bottom: 30px;
 }
+.inline {
+  display: flex;
+  flex-wrap: wrap;
+}
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -452,12 +456,12 @@ footer .left-sidebar {
   font-weight: 700;
   color: #090909;
 }
-footer .row {
+footer .inline {
   background-color: #fef9f2;
   margin-left: 110px;
   padding-top: 20px;
 }
-footer .row p {
+footer .inline p {
   margin-bottom: 20px;
 }
 .black-box {
@@ -472,5 +476,5 @@ footer .row .black-text {
   margin-left: 226px;
 }
 .footer-card .vector {
-  transform: translate(10%);
+  transform: translate(10%);  
 }
