@@ -407,6 +407,8 @@ main h1 {
 }
 footer {
   display: flex;
+  background-color: #FEF9F2;
+  padding-top: 150px;
 }
 footer .footer-card {
   display: flex;
@@ -424,4 +426,23 @@ footer .footer-card .btn {
 }
 footer .footer-card .btn.white-btn {
   width: 260px;
+}
+footer .left-sidebar {
+  margin-left: 110px;
+  width: 330px;
+}
+.footer-navbar li {
+  list-style-type: none;
+  padding: 10px;
+}
+.footer-navbar li a {
+  text-decoration: none;
+  color: #3F3F3F;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 400px;
+  margin-left: 34px;
+}
+.footer-black-text {
+  font-weight: 700;
+  color: #090909;
 }
