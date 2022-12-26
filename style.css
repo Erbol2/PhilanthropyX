@@ -387,7 +387,7 @@ main h1 {
   font-size: 16px;
   font-family: "DM Sans", sans-serif;
   font-weight: 400;
-  margin-right: 30px ;
+  margin-right: 30px;
 }
 .white-blocks .little-text {
   margin-bottom: 25px;
@@ -403,5 +403,25 @@ main h1 {
 }
 .btns {
   margin: 230px;
-  margin-left: 475px ;
+  margin-left: 475px;
+}
+footer {
+  display: flex;
+}
+footer .footer-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px 50px 40px 45px;
+  margin: 0 60px 0 100px;
+}
+footer .footer-card h5 {
+  font-size: 22px;
+}
+footer .footer-card .btn {
+  margin: 0;
+  margin-top: 15px;
+}
+footer .footer-card .btn.white-btn {
+  width: 260px;
 }
