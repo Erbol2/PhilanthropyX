@@ -128,7 +128,8 @@ body {
   margin-bottom: 70px;
 }
 .underline {
-  margin-left: 85px;
+  margin-left: 110px;
+  width: 1142px;
 }
 .container .left-block {
   display: flex;
@@ -405,10 +406,11 @@ main h1 {
   margin: 230px;
   margin-left: 475px;
 }
-footer {
+footer .container {
   display: flex;
-  background-color: #FEF9F2;
+  background-color: #fef9f2;
   padding-top: 150px;
+  padding-bottom: 100px;
 }
 footer .footer-card {
   display: flex;
@@ -437,7 +439,7 @@ footer .left-sidebar {
 }
 .footer-navbar li a {
   text-decoration: none;
-  color: #3F3F3F;
+  color: #3f3f3f;
   font-family: "DM Sans", sans-serif;
   font-weight: 400px;
   margin-left: 34px;
@@ -445,4 +447,21 @@ footer .left-sidebar {
 .footer-black-text {
   font-weight: 700;
   color: #090909;
+}
+footer .row {
+  background-color: #fef9f2;
+  margin-left: 110px;
+  padding-top: 20px;
+}
+footer .row p {
+  margin-bottom: 20px;
+}
+.black-box {
+  margin: 11px;
+}
+footer .row .black-text {
+  font-size: 16px;
+}
+.first-box {
+margin-left: 226px;
 }
