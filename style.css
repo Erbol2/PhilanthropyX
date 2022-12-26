@@ -413,6 +413,7 @@ main h1 {
   margin: 230px;
   margin-left: 475px;
 }
+
 footer .container {
   display: flex;
   background-color: #fef9f2;
@@ -460,6 +461,7 @@ footer .inline {
   background-color: #fef9f2;
   margin-left: 110px;
   padding-top: 20px;
+  position: relative;
 }
 footer .inline p {
   margin-bottom: 20px;
@@ -469,12 +471,12 @@ footer .inline p {
   margin-top: 7px;
   margin-bottom: 20px;
 }
-footer .row .black-text {
+footer .inline .black-text {
   font-size: 16px;
 }
 .first-box {
-  margin-left: 226px;
+  margin-left: 225px;
 }
 .footer-card .vector {
-  transform: translate(10%);  
+  transform: translate(10%);
 }
