@@ -1,8 +1,8 @@
-@media screen and (max-width:1200px) {
+@media screen and (max-width: 1200px) {
   .btn {
     padding: 19px 33px 23px 30px;
     font-size: 16px;
-    margin-right: 74px ;
+    margin-right: 74px;
   }
   .content h1 {
     font-size: 54px;
@@ -11,13 +11,10 @@
     font-size: 17px;
   }
   header .img img {
-   width: 540px;
+    width: 540px;
   }
   .title-font-roboto {
     font-size: 33px;
-  }
-  .block-div {
-    width: 1200px;
   }
   .font-roboto {
     font-size: 54px;
@@ -29,10 +26,25 @@
     font-size: 14px;
   }
   .underline {
-  width: 980px;
+    width: 980px;
   }
+  .main-block .left-block {
+    width: 490px;
+  }
+  .main-block .left-block img {
+    width: 470px;
+  }
+  .main-block .left-block .small-img img {
+    height: 480px;
+  }
+  .main-block .right-block .img {
+    width: 470px;
+  }
+ .main-block .right-block .div-btn{
+  width: 540px;
+ }
 }
-@media screen and (max-width:1000px) {
+@media screen and (max-width: 1000px) {
   .btn {
     padding: 16px 28px 20px 28px;
     font-size: 14px;
@@ -49,5 +61,32 @@
   }
   .title-font-roboto {
     font-size: 29px;
+  }
+  .font-roboto {
+    font-size: 50px;
+  }
+  .orange-text {
+    font-size: 50px;
+  }
+  .little-text {
+    font-size: 12px;
+  }
+  .underline {
+    width: 810px;
+  }
+  .main-block .left-block {
+    width: 390px;
+  }
+  .main-block .left-block img {
+    width: 370px;
+  }
+  .main-block .left-block .small-img img {
+    height: 380px;
+  }
+  .main-block .right-block .img {
+    width: 370px;
+  }
+  .main-block .right-block .div-btn {
+    width: 440px;
   }
 }
