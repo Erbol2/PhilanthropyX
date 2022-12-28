@@ -1,4 +1,4 @@
-@media screen and (max-width:1100px) {
+@media screen and (max-width:1200px) {
   .btn {
     padding: 19px 33px 23px 30px;
     font-size: 16px;
@@ -15,5 +15,39 @@
   }
   .title-font-roboto {
     font-size: 33px;
+  }
+  .block-div {
+    width: 1200px;
+  }
+  .font-roboto {
+    font-size: 54px;
+  }
+  .orange-text {
+    font-size: 54px;
+  }
+  .little-text {
+    font-size: 14px;
+  }
+  .underline {
+  width: 980px;
+  }
+}
+@media screen and (max-width:1000px) {
+  .btn {
+    padding: 16px 28px 20px 28px;
+    font-size: 14px;
+    margin-right: 70px;
+  }
+  .content h1 {
+    font-size: 50px;
+  }
+  .content p {
+    font-size: 15px;
+  }
+  header .imh img {
+    width: 420px;
+  }
+  .title-font-roboto {
+    font-size: 29px;
   }
 }
