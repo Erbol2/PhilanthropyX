@@ -52,6 +52,20 @@
   .top-navbar .basket img {
     width: 35px;
   }
+  .main-block p.little-text {
+    width: 470px; 
+  }
+  .orange-text.small-orange-text {
+    font-size: 18px;
+  }
+  .card .card-images img {
+    width: 450px;
+    height: 550px;
+  }
+  .card img {
+    width: 65px;
+    height: 65px;
+  }
 }
 @media screen and (max-width: 1000px) {
   .btn {
