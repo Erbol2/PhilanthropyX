@@ -53,7 +53,7 @@
     width: 35px;
   }
   .main-block p.little-text {
-    width: 470px; 
+    width: 470px;
   }
   .orange-text.small-orange-text {
     font-size: 18px;
@@ -65,6 +65,17 @@
   .card img {
     width: 65px;
     height: 65px;
+  }
+  .container .video {
+    width: 990px;
+  }
+  .container .icon {
+    width: 260px;
+    margin-left: 460px;
+    margin-top: -410px;
+  }
+  .black-text {
+    font-size: 16px;
   }
 }
 @media screen and (max-width: 1000px) {
