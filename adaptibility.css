@@ -40,9 +40,18 @@
   .main-block .right-block .img {
     width: 470px;
   }
- .main-block .right-block .div-btn{
-  width: 540px;
- }
+  .main-block .right-block .div-btn {
+    width: 540px;
+  }
+  .top-navbar img {
+    width: 160px;
+  }
+  .top-navbar .nav-ul a {
+    font-size: 15px;
+  }
+  .top-navbar .basket img {
+    width: 35px;
+  }
 }
 @media screen and (max-width: 1000px) {
   .btn {
