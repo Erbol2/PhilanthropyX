@@ -485,3 +485,7 @@ footer .inline .black-text {
 .footer-card .vector {
   transform: translate(10%);
 }
+.second-photo {
+  position: absolute;
+  margin-left: 588px;
+}

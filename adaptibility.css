@@ -80,7 +80,7 @@
   }
   .video-text .col-4 img {
     width: 160px;
-    margin-left: 55px;
+    margin-left: 70px;
   }
   .video-text .col-4 h2 {
     font-size: 20px;
@@ -100,6 +100,25 @@
     height: 270px;
     padding: 35px 40px 57px 38px;
     margin-left: 280px;
+  }
+  .photos .col-6 img {
+    width: 450px;
+    height: 290px;
+  }
+  .photos .col-6 {
+    flex: 45% 1 1;
+  }
+  .row.white-blocks .col-4 {
+    width: 410px;
+  }
+  .row.white-blocks .col-4:nth-child(2) {
+    margin-left: 633px;
+  }
+  .second-photo {
+    margin-left: 523px;
+  }
+  .white-blocks .title-font-roboto {
+    font-size: 22px;
   }
 }
 @media screen and (max-width: 1000px) {
