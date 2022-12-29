@@ -120,6 +120,28 @@
   .white-blocks .title-font-roboto {
     font-size: 22px;
   }
+  footer .left-sidebar {
+    width: 300px;
+  }
+  footer .left-sidebar img {
+    width: 160px;
+  }
+  footer .footer-navbar a {
+    font-size: 15px;
+  }
+  footer .footer-navbar {
+    width: 150px;
+  }
+  footer .footer-card {
+    margin-left: 30px;
+    width: 30px 40px 30px 35px;
+  }
+  .first-box {
+    margin-left: 115px;
+  }
+  .inline p.black-text {
+    font-size: 14px;
+  }
 }
 @media screen and (max-width: 1000px) {
   .btn {
