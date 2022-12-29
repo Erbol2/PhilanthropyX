@@ -88,6 +88,19 @@
   .orange-card {
     padding: 120px 18px 60px 18px;
   }
+  .card.reverse-card .card-images img {
+    height: 520px;
+  }
+  .card.reverse-card .card-content p img {
+    width: 14px;
+    height: 14px;
+  }
+  .white-block {
+    width: 340px;
+    height: 270px;
+    padding: 35px 40px 57px 38px;
+    margin-left: 280px;
+  }
 }
 @media screen and (max-width: 1000px) {
   .btn {
