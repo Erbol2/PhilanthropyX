@@ -130,8 +130,16 @@
     width: 150px;
   }
   footer .footer-card {
+    width: 300px;
     margin-left: 30px;
-    width: 30px 40px 30px 35px;
+    padding: 30px 40px 30px 35px;
+  }
+  .footer-card .btn {
+    width: 236px;
+  }
+  .footer-card .btn.white-btn {
+    width: 26px;
+    padding: 16px 25px 20px 25px;
   }
   .first-box {
     margin-left: 115px;
@@ -256,7 +264,7 @@
     width: 400px;
     height: 230px;
   }
-  
+
   .row.white-blocks .col-4 {
     width: 350px;
   }
@@ -269,26 +277,40 @@
   .white-blocks .title-font-roboto {
     font-size: 20px;
   }
+  .btns {
+    margin-left: 380px;
+    width: 400px;
+  }
+  .btns .orange-btn {
+    margin-right: 80px;
+  }
   footer .left-sidebar {
-    width: 300px;
+    width: 270px;
   }
   footer .left-sidebar img {
-    width: 160px;
+    width: 140px;
   }
   footer .footer-navbar a {
-    font-size: 15px;
+    font-size: 12px;
   }
   footer .footer-navbar {
-    width: 150px;
+    width: 130px;
   }
   footer .footer-card {
     margin-left: 30px;
-    width: 30px 40px 30px 35px;
+    padding: 30px 40px 30px 35px;
+  }
+  footer .footer-card .btn.white-btn {
+    width: 236px;
+  }
+  .black-box {
+    width: 30px;
+    height: 30px;
   }
   .first-box {
-    margin-left: 115px;
+    margin-left: 75px;
   }
   .inline p.black-text {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
