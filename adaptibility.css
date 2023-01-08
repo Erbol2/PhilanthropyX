@@ -414,12 +414,15 @@
     width: 9px;
     height: 9px;
   }
+  .img-text {
+    font-size: 10px;
+  }
   div.white-block {
     padding: 15px;
-   margin-top: -700px;
-   margin-left: 200px;
-   width: 170px;
-   height: 250px;
+    margin-top: -700px;
+    margin-left: 200px;
+    width: 170px;
+    height: 250px;
   }
   .photos .col-6 img {
     width: 200px;
@@ -431,7 +434,7 @@
   .row.white-blocks .col-4:nth-child(2) {
     margin-left: 633px;
   }
-  
+
   .second-photo {
     margin-left: 210px;
   }
@@ -462,7 +465,7 @@
     width: 26px;
     padding: 16px 25px 20px 25px;
   }
-  
+
   .inline p.black-text {
     font-size: 14px;
   }
