@@ -415,16 +415,25 @@
     width: 200px;
   }
   .orange-text.small-orange-text {
-    font-size: 12px;
+    font-size: 10px;
   }
   .card {
-    margin: 100px 10px 50px 10px;
+    margin: 160px 10px 50px 10px;
   }
   .card-content {
     margin: 10px;
   }
-  .font-small-roboto {
+  .card .font-small-roboto {
     font-size: 20px;
+  }
+  .card .card-content .row .col-6.card-icon {
+    width: 90px;
+    height: 40px;
+    padding: 0;
+  }
+  .card .card-content .btn.orange-btn {
+    margin: 0;
+    width: 100px;
   }
   .card .card-images img {
     width: 200px;
@@ -435,18 +444,36 @@
     height: 25px;
   }
   .container .video {
-    width: 350px;
+    width: 420px;
+    margin: -350px 0 0 10px;
   }
   .container .icon {
-    width: 10px;
-    margin-left: 460px;
-    margin-top: -410px;
+    width: 100px;
+    margin-left: 170px;
+    margin-top: -280px;
+  }
+  .paragraph {
+    margin: 10px;
   }
   .topside {
     margin-left: 10px;
   }
-  .row.video-text {
+  .topside .btn.orange-btn {
     margin: 10px;
+    width: 100px;
+  }
+  .card.orange-card img {
+    width: 100px;
+  }
+  .card.orange-card .btn {
+    margin: 10px;
+    width: 100px;
+  }
+   .row.video-text {
+    margin: 10px;
+  }
+  .card.card.reverse-card .card-content {
+    margin: 0 10px;
   }
   .black-text {
     font-size: 12px;
@@ -483,11 +510,11 @@
     font-size: 10px;
   }
   div.white-block {
-    padding: 15px;
-    margin-top: -700px;
-    margin-left: 200px;
-    width: 170px;
-    height: 250px;
+    padding: 10px;
+    margin-top: -210px;
+    margin-left: 60px;
+    width: 150px;
+    height: 200px;
   }
   .photos .col-6 img {
     width: 200px;
