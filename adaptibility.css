@@ -593,3 +593,267 @@
     display: none;
   }
 }
+@media screen and (max-width: 800px) {
+  .btn {
+    padding: 11px 15px 11px 15px;
+    font-size: 10px;
+    height: 43px;
+  }
+  .content h1 {
+    font-size: 26px;
+  }
+  .content p {
+    font-size: 13px;
+  }
+  .content .btn.orange-btn {
+    margin-right: 0;
+  }
+  .content .btn.white-btn {
+    width: 100px;
+    margin-top: -43px;
+    margin-left: 10px;
+    margin-right: 0;
+  }
+  header .content {
+    width: 400px;
+  }
+  .container .top-navbar .img-div {
+    margin: 30px 100px;
+  }
+  .container .top-navbar .nav-ul {
+    margin: 30px 50px;
+  }
+  .container .basket {
+    margin: 30px 10px;
+  }
+  .container .top-navbar .btn.orange-btn {
+    margin: 20px;
+    margin-left: 10px;
+  }
+  .container header {
+    margin-left: 100px;
+    height: 350px;
+  }
+  .container header .content {
+    margin-top: 80px;
+  }
+  header .img img {
+    width: 343px;
+  }
+  main .main-block .left-block img {
+    width: 300px;
+    margin-top: 10px;
+  }
+  main .main-block img.img {
+    margin: 0;
+    height: 370px;
+    width: 300px;
+  }
+  main .main-block .right-block img.img {
+    width: 300px;
+  }
+  main .main-block .right-block p {
+    font-size: 12px;
+  }
+  main .main-block .right-block p img {
+    width: 12px;
+  }
+  .title-font-roboto {
+    font-size: 26px;
+  }
+  .font-roboto {
+    font-size: 26px;
+  }
+  .orange-text {
+    font-size: 26px;
+  }
+  .little-text {
+    font-size: 11px;
+  }
+  .block-div .col-3:nth-child(1) {
+    padding-left: 100px;
+  }
+  .block-div .col-3 {
+    padding-left: 13px;
+  }
+  .underline {
+    width: 620px;
+    margin-left: 100px;
+  }
+  .main-block .left-block {
+    width: 300px;
+    margin: 0 20px 0 100px;
+  }
+  .main-block .right-block .div-btn {
+    width: 300px;
+    margin-left: 70px;
+  }
+  .top-navbar img {
+    width: 130px;
+  }
+  .top-navbar .nav-ul a {
+    font-size: 9px;
+  }
+  .top-navbar .basket img {
+    width: 18px;
+  }
+  .main-block p.little-text {
+    width: 300px;
+  }
+  .orange-text.small-orange-text {
+    font-size: 12px;
+  }
+  .card {
+    margin: 160px 100px 50px 100px;
+  }
+  .card-content {
+    margin: 10px;
+  }
+  .card .font-small-roboto {
+    font-size: 23px;
+  }
+  .card .card-content .row .col-6.card-icon {
+    width: 100px;
+    height: 40px;
+    padding: 0;
+  }
+  .card .card-content .btn.orange-btn {
+    margin: 0;
+    width: 100px;
+  }
+  .card .card-images img {
+    width: 300px;
+    height: 340px;
+  }
+  .card img {
+    width: 35px;
+    height: 35px;
+  }
+  .container .video {
+    width: 580px;
+    margin: -350px 0 0 100px;
+  }
+  .container .icon {
+    width: 160px;
+    margin-left: 310px;
+    margin-top: -260px;
+  }
+  .topside .btn.orange-btn {
+    margin: 10px;
+    width: 140px;
+  }
+  .card.orange-card img {
+    width: 100px;
+  }
+  .card.orange-card .btn {
+    margin: 10px;
+    width: 100px;
+  }
+  .row.video-text {
+    margin: 100px;
+  }
+  .card.card.reverse-card .card-content {
+    margin: 0 100px;
+  }
+  .black-text {
+    font-size: 12px;
+  }
+
+  .video-text .col-4 img {
+    width: 100px;
+    margin-left: 45px;
+  }
+  .video-text .col-4 h2 {
+    font-size: 14px;
+  }
+  .orange-card {
+    margin-left: 100px;
+    width: 600px;
+    padding: 60px 10px 35px 10px;
+  }
+  .orange-card .title-font-roboto {
+    font-size: 14px;
+  }
+  .card.reverse-card {
+    margin-left: 100px;
+  }
+  .card.reverse-card .card-images img {
+    height: 350px;
+  }
+  .card.reverse-card .card-content p img {
+    width: 12px;
+    height: 12px;
+  }
+  .img-text {
+    font-size: 12px;
+  }
+  div.white-block {
+    padding: 17px;
+    margin-top: -300px;
+    margin-left: 190px;
+    width: 250px;
+    height: 260px;
+  }
+  .photos .col-6 img {
+    width: 300px;
+    height: 140px;
+  }
+  .row.white-blocks .col-4 {
+    padding: 15px;
+    width: 240px;
+    height: 200px;
+  }
+
+  .row.white-blocks .col-4:nth-child(2) {
+    margin-left: 420px;
+  }
+  .second-photo {
+    margin-left: 310px;
+  }
+  .btns {
+    margin: 140px 280px 40px;
+  }
+  .white-blocks .title-font-roboto {
+    font-size: 12px;
+  }
+  footer .left-sidebar {
+    width: 200px;
+    margin-left: 100px;
+  }
+  footer .left-sidebar img {
+    width: 140px;
+  }
+  footer .footer-navbar a {
+    font-size: 10px;
+  }
+  footer .footer-card {
+    width: 260px;
+    margin-left: 30px;
+    padding: 10px 40px 30px 55px;
+    height: 250px;
+  }
+  .footer-card .btn {
+    width: 150px;
+    height: 40px;
+  }
+  footer .footer-card .btn.white-btn {
+    width: 150px;
+    height: 40px;
+    padding: 0;
+  }
+  footer div.inline {
+    margin-left: 100px;
+  }
+  .inline p.black-text {
+    font-size: 9px;
+  }
+  .font-small-roboto {
+    font-size: 26px;
+  }
+  .black-little-text {
+    font-size: 11px;
+  }
+  footer .inline .black-box {
+    display: none;
+  }
+}
