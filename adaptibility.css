@@ -173,13 +173,13 @@
     font-size: 27px;
   }
   .font-roboto {
-    font-size: 50px;
+    font-size: 48px;
   }
   .orange-text {
-    font-size: 50px;
+    font-size: 48px;
   }
   .little-text {
-    font-size: 12px;
+    font-size: 10px;
   }
   .underline {
     width: 810px;
@@ -326,6 +326,15 @@
   .content p {
     font-size: 10px;
   }
+  .content .btn.orange-btn{
+    margin-right: 0;
+  }
+  .content .btn.white-btn {
+    width: 100px;
+    margin-top: -43px;
+    margin-left: 100px;
+    margin-right: 0;
+  }
   header .img img {
     width: 200px;
   }
@@ -346,6 +355,7 @@
   }
   .main-block .left-block {
     width: 200px;
+    margin: 10px;
   }
   .main-block .left-block img {
     width: 200px;
@@ -375,6 +385,15 @@
   .orange-text.small-orange-text {
     font-size: 12px;
   }
+  .card {
+    margin: 100px 10px 50px 10px;
+  }
+  .card-content {
+    margin: 10px;
+  }
+  .font-small-roboto {
+    font-size: 20px;
+  }
   .card .card-images img {
     width: 200px;
     height: 270px;
@@ -391,8 +410,17 @@
     margin-left: 460px;
     margin-top: -410px;
   }
+  .topside {
+    margin-left: 10px;
+  }
+  .row.video-text {
+    margin: 10px;
+  }
   .black-text {
     font-size: 12px;
+  }
+  .background-color {
+    padding-left:10px;
   }
   .video-text .col-4 img {
     width: 80px;
@@ -402,10 +430,15 @@
     font-size: 14px;
   }
   .orange-card {
+    margin-left: 10px;
+    width: 420px;
     padding: 60px 10px 35px 10px;
   }
   .orange-card .title-font-roboto {
     font-size: 14px;
+  }
+  .card.reverse-card {
+    margin-left: 10px;
   }
   .card.reverse-card .card-images img {
     height: 250px;
@@ -443,6 +476,7 @@
   }
   footer .left-sidebar {
     width: 300px;
+    margin-left: 10px;
   }
   footer .left-sidebar img {
     width: 160px;
