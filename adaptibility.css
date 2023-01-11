@@ -469,7 +469,7 @@
     margin: 10px;
     width: 100px;
   }
-   .row.video-text {
+  .row.video-text {
     margin: 10px;
   }
   .card.card.reverse-card .card-content {
@@ -516,19 +516,32 @@
     width: 150px;
     height: 200px;
   }
+  .photos {
+    margin-left: 100px;
+  }
   .photos .col-6 img {
+    margin-left: -100px;
     width: 200px;
     height: 90px;
   }
   .row.white-blocks .col-4 {
+    padding: 10px;
     width: 170px;
+    height: 160px;
+  }
+  .row.white-blocks .col-4:nth-child(1) {
+    margin-left: 10px;
+    margin-top: -40px;
   }
   .row.white-blocks .col-4:nth-child(2) {
-    margin-left: 633px;
+    margin-left: 220px;
+    margin-top: -40px;
   }
-
   .second-photo {
     margin-left: 210px;
+  }
+  .btns {
+    margin: 100px 140px 40px;
   }
   .white-blocks .title-font-roboto {
     font-size: 10px;
