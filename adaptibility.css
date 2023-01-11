@@ -659,7 +659,7 @@
   }
   .underline {
     width: 510px;
-    margin: 50px;
+    margin-left: 50px;
   }
   .main-block .left-block {
     width: 250px;
@@ -769,58 +769,58 @@
     height: 250px;
   }
   .card.reverse-card .card-content p img {
-    width: 9px;
-    height: 9px;
+    width: 11px;
+    height: 11px;
   }
   .img-text {
-    font-size: 10px;
+    font-size: 11px;
   }
   div.white-block {
-    padding: 10px;
+    padding: 12px;
     margin-top: -210px;
-    margin-left: 60px;
-    width: 150px;
-    height: 200px;
+    margin-left: 84px;
+    width: 170px;
+    height: 220px;
   }
   .photos {
-    margin-left: 100px;
+    margin-left: 50px;
   }
   .photos .col-6 img {
-    margin-left: -100px;
-    width: 200px;
-    height: 90px;
+    margin-left: -50px;
+    width: 220px;
+    height: 110px;
   }
   .row.white-blocks .col-4 {
-    padding: 10px;
-    width: 170px;
-    height: 160px;
+    padding: 12px;
+    width: 190px;
+    height: 170px;
   }
   .row.white-blocks .col-4:nth-child(1) {
-    margin-left: 10px;
+    margin-left: 60px;
     margin-top: -40px;
   }
   .row.white-blocks .col-4:nth-child(2) {
-    margin-left: 220px;
+    margin-left: 300px;
     margin-top: -40px;
   }
   .second-photo {
-    margin-left: 210px;
+    margin-left: 240px;
   }
   .btns {
-    margin: 100px 140px 40px;
+    margin: 110px 190px 40px;
   }
   .white-blocks .title-font-roboto {
-    font-size: 10px;
+    font-size: 11px;
   }
   footer .left-sidebar {
-    width: 150px;
-    margin-left: 10px;
+    width: 200px;
+    margin-left: 50px;
   }
   footer .left-sidebar img {
     width: 120px;
   }
   footer .footer-navbar a {
-    font-size: 10px;
+    font-size: 11px;
   }
   footer .footer-navbar {
     display: none;
@@ -841,10 +841,10 @@
     padding: 0;
   }
   footer div.inline {
-    margin: 10px;
+    margin-left: 50px;
   }
   .inline p.black-text {
-    font-size: 9px;
+    font-size: 10px;
   }
   .font-small-roboto {
     font-size: 24px;
