@@ -326,7 +326,7 @@
   .content p {
     font-size: 10px;
   }
-  .content .btn.orange-btn{
+  .content .btn.orange-btn {
     margin-right: 0;
   }
   .content .btn.white-btn {
@@ -335,8 +335,45 @@
     margin-left: 100px;
     margin-right: 0;
   }
+  .container .top-navbar .img-div {
+    margin: 20px 10px;
+  }
+  .container .top-navbar .nav-ul {
+    margin: 20px 10px;
+  }
+  .container .basket {
+    margin: 20px 10px;
+  }
+  .container .top-navbar .btn.orange-btn {
+    margin: 10px;
+  }
+  .container header {
+    margin-left: 10px;
+    height: 150px;
+  }
+  .container header .content {
+    margin-top: 10px;
+  }
   header .img img {
     width: 200px;
+  }
+  main .main-block .left-block img {
+    width: 200px;
+    margin-top: 10px;
+  }
+  main .main-block img.img {
+    margin: 0;
+    height: 370px;
+    width: 200px;
+  }
+  main .main-block .right-block img.img {
+    width: 200px;
+  }
+  main .main-block .right-block p {
+    font-size: 10px;
+  }
+  main .main-block .right-block p img {
+    width: 10px;
   }
   .title-font-roboto {
     font-size: 24px;
@@ -350,25 +387,20 @@
   .little-text {
     font-size: 9px;
   }
+  .block-div .col-3 {
+    padding: 10px;
+  }
   .underline {
-    width: 300px;
+    width: 410px;
+    margin: 10px;
   }
   .main-block .left-block {
     width: 200px;
     margin: 10px;
   }
-  .main-block .left-block img {
-    width: 200px;
-    height: 140px;
-  }
-  .main-block .left-block .small-img img {
-    height: 100px;
-  }
-  .main-block .right-block .img {
-    width: 200px;
-  }
   .main-block .right-block .div-btn {
     width: 300px;
+    margin-left: -30px;
   }
   .top-navbar img {
     width: 100px;
@@ -420,7 +452,7 @@
     font-size: 12px;
   }
   .background-color {
-    padding-left:10px;
+    padding-left: 10px;
   }
   .video-text .col-4 img {
     width: 80px;
