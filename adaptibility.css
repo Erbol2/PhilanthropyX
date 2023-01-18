@@ -911,6 +911,9 @@
     height: 370px;
     width: 200px;
   }
+  main .main.block .right-block {
+    width: 200px;
+  }
   main .main-block .right-block img.img {
     width: 200px;
   }
@@ -1037,6 +1040,10 @@
     margin-left: 10px;
     width: 420px;
     padding: 60px 10px 35px 10px;
+  }
+  .orange-card img {
+    width: 80px;
+    height: 80px;
   }
   .orange-card .title-font-roboto {
     font-size: 14px;
