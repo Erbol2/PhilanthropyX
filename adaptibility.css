@@ -1122,26 +1122,19 @@
   footer .left-sidebar img {
     width: 120px;
   }
-  footer .footer-navbar a {
-    font-size: 10px;
-  }
   footer .footer-navbar {
     display: none;
   }
   footer .footer-card {
     width: 260px;
-    margin-left: 30px;
-    padding: 10px 40px 30px 55px;
+    padding: 60px 40px 30px 55px;
     height: 250px;
   }
-  .footer-card .btn {
+  footer .footer-card .btn.black-btn {
     width: 150px;
-    height: 40px;
   }
   footer .footer-card .btn.white-btn {
-    width: 150px;
-    height: 40px;
-    padding: 0;
+    margin-top: 10;
   }
   footer div.inline {
     margin: 10px;
