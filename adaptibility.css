@@ -1041,9 +1041,17 @@
     width: 420px;
     padding: 60px 10px 35px 10px;
   }
-  .orange-card img {
-    width: 80px;
-    height: 80px;
+  .orange-card .vector {
+    display: none;
+  }
+  .orange-card .btn {
+    width: 200px;
+    margin-left: -270px;
+    margin-top: 100px;
+  }
+  .orange-card .btn.white-btn{
+    width: 200px;
+    margin-top: 180px;
   }
   .orange-card .title-font-roboto {
     font-size: 14px;
