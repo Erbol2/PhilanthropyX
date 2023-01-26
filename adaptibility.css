@@ -102,7 +102,7 @@
   }
   .card.reverse-card .card-content {
     margin-left: 60px;
-    width:500px;
+    width: 500px;
   }
   .card.card.reverse-card .card-content p {
     margin: 30px 0;
@@ -190,13 +190,25 @@
     margin-right: 70px;
   }
   .content h1 {
-    font-size: 50px;
+    font-size: 40px;
   }
   .content p {
     font-size: 15px;
   }
+  header {
+    height: 500px;
+  }
   header .img img {
-    width: 450px;
+    width: 430px;
+    margin: 0;
+    height: 560px;
+  }
+  header .content img {
+    width: 100px;
+  }
+  .container header div.content {
+    margin-top: 100px;
+    height: 560px;
   }
   .title-font-roboto {
     font-size: 27px;
@@ -211,22 +223,27 @@
     font-size: 10px;
   }
   .underline {
-    width: 810px;
+    width: 770px;
   }
   .main-block .left-block {
-    width: 390px;
+    width: 370px;
+    height: 800px;
+  }
+  .main-block .right-block {
+    width: 370px;
+    height: 800px;
+    margin-left: 30px;
   }
   .main-block .left-block img {
     width: 370px;
   }
-  .main-block .left-block .small-img img {
-    height: 380px;
-  }
   .main-block .right-block .img {
     width: 370px;
+    margin: 0;
   }
-  .main-block .right-block .div-btn {
-    width: 440px;
+  .main-block .right-block .div-btn .btn {
+    width: 140px;
+    margin-left: 2px;
   }
   .top-navbar img {
     width: 140px;
@@ -240,31 +257,47 @@
   }
   .main-block p.little-text {
     width: 370px;
+    margin-left: 0;
+  }
+  .main-block .right-block .img-text {
+    font-size: 10px;
+    margin: 10px 0;
+  }
+  .main-block .right-block .img-text img {
+    width: 18px;
   }
   .orange-text.small-orange-text {
     font-size: 15px;
   }
   .card .card-images img {
-    width: 400px;
-    height: 490px;
+    width: 370px;
+    height: 470px;
+    margin-right: -25px;
   }
   .card img {
     width: 55px;
     height: 55px;
   }
+  .card .card-content {
+    margin-right: ;
+  }
   .font-small-roboto {
     font-size: 25px;
   }
   .container .video {
-    width: 790px;
+    width: 750px;
   }
   .container .icon {
-    width: 210px;
-    margin-left: 400px;
-    margin-top: -310px;
+    width: 180px;
+    margin-left: 390px;
+    margin-top: -300px;
   }
   .black-text {
     font-size: 14px;
+  }
+  .topside h1 {
+    margin-right: 60px;
+    width: 560px;
   }
   .video-text .col-4 img {
     width: 130px;
