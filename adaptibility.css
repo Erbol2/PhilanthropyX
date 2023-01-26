@@ -56,26 +56,29 @@
   .main-block p.little-text {
     width: 500px;
   }
-  .main-block .right-block p{
+  .main-block .right-block p {
     margin-left: 50px;
   }
   .orange-text.small-orange-text {
     font-size: 18px;
   }
+  .card .card-content {
+    width: 540px;
+  }
   .card .card-images img {
-    width: 450px;
-    height: 550px;
+    width: 500px;
+    height: 580px;
   }
   .card img {
     width: 65px;
     height: 65px;
   }
   .container .video {
-    width: 990px;
+    width: 1040px;
   }
   .container .icon {
     width: 260px;
-    margin-left: 460px;
+    margin-left: 490px;
     margin-top: -410px;
   }
   .black-text {
@@ -87,6 +90,9 @@
   }
   .video-text .col-4 h2 {
     font-size: 20px;
+  }
+  .topside h1 {
+    margin-right: 183px;
   }
   .orange-card {
     padding: 120px 18px 60px 18px;
@@ -974,7 +980,7 @@
     margin: 5px;
     width: 200px;
   }
-   .top-navbar img {
+  .top-navbar img {
     width: 100px;
   }
   .top-navbar .nav-ul a {
