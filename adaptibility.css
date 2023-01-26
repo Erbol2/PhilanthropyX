@@ -100,9 +100,19 @@
   .card.reverse-card .card-images img {
     height: 520px;
   }
+  .card.reverse-card .card-content {
+    margin-left: 60px;
+    width:500px;
+  }
+  .card.card.reverse-card .card-content p {
+    margin: 30px 0;
+  }
   .card.reverse-card .card-content p img {
     width: 14px;
     height: 14px;
+  }
+  .card.card.reverse-card .card-content h1 {
+    margin: 0;
   }
   .white-block {
     width: 340px;
@@ -111,17 +121,17 @@
     margin-left: 280px;
   }
   .photos .col-6 img {
-    width: 450px;
+    width: 500px;
     height: 290px;
   }
   .row.white-blocks .col-4 {
     width: 410px;
   }
   .row.white-blocks .col-4:nth-child(2) {
-    margin-left: 633px;
+    margin-left: 645px;
   }
   .second-photo {
-    margin-left: 523px;
+    margin-left: 535px;
   }
   .white-blocks .title-font-roboto {
     font-size: 22px;
@@ -136,22 +146,29 @@
     font-size: 15px;
   }
   footer .footer-navbar {
-    width: 150px;
+    width: 160px;
   }
   footer .footer-card {
-    width: 300px;
-    margin-left: 30px;
+    width: 335px;
+    margin-left: 80px;
     padding: 30px 40px 30px 35px;
   }
-  .footer-card .btn {
-    width: 236px;
+  footer .footer-card .vector {
+    display: none;
   }
-  .footer-card .btn.white-btn {
-    width: 26px;
+  footer .footer-card h5 {
+    margin: 10px 15px;
+  }
+  footer .footer-card .btn {
+    width: 236px;
+    margin-left: 15px;
+  }
+  footer .footer-card .btn.white-btn {
+    width: 236px;
     padding: 16px 25px 20px 25px;
   }
   .first-box {
-    margin-left: 115px;
+    margin-left: 180px;
   }
   .inline p.black-text {
     font-size: 14px;
@@ -161,6 +178,9 @@
   }
   .black-little-text {
     font-size: 14px;
+  }
+  .btns {
+    margin-bottom: 100px;
   }
 }
 @media screen and (max-width: 960px) {
