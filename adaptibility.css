@@ -1,4 +1,4 @@
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1280px) {
   .btn {
     padding: 19px 33px 23px 30px;
     font-size: 15px;
@@ -12,7 +12,8 @@
     font-size: 17px;
   }
   header .img img {
-    width: 540px;
+    width: 580px;
+    margin-left: 27px;
   }
   .title-font-roboto {
     font-size: 33px;
@@ -27,22 +28,21 @@
     font-size: 14px;
   }
   .underline {
-    width: 980px;
+    margin-left: 100px;
+    width: 1045px;
   }
   .main-block .left-block {
-    width: 490px;
+    width: 500px;
   }
   .main-block .left-block img {
-    width: 470px;
-  }
-  .main-block .left-block .small-img img {
-    height: 480px;
+    width: 500px;
   }
   .main-block .right-block .img {
-    width: 470px;
+    width: 500px;
   }
   .main-block .right-block .div-btn {
     width: 540px;
+    margin-left: 75px;
   }
   .top-navbar img {
     width: 160px;
@@ -54,7 +54,10 @@
     width: 35px;
   }
   .main-block p.little-text {
-    width: 470px;
+    width: 500px;
+  }
+  .main-block .right-block p{
+    margin-left: 50px;
   }
   .orange-text.small-orange-text {
     font-size: 18px;
@@ -154,7 +157,7 @@
     font-size: 14px;
   }
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 960px) {
   .btn {
     padding: 16px 28px 20px 28px;
     font-size: 14px;
@@ -314,7 +317,7 @@
     font-size: 12px;
   }
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 700px) {
   .btn {
     padding: 11px 15px 11px 15px;
     font-size: 10px;
@@ -578,7 +581,7 @@
     display: none;
   }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 570px) {
   .btn {
     padding: 11px 14px 11px 14px;
     font-size: 9px;
