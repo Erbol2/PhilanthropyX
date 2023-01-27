@@ -222,6 +222,9 @@
   .little-text {
     font-size: 10px;
   }
+  .container header .content .btn.white-btn {
+    margin-left: 0;
+  }
   .underline {
     width: 770px;
   }
@@ -240,6 +243,9 @@
   .main-block .right-block .img {
     width: 370px;
     margin: 0;
+  }
+  .main-block .right-block .div-btn{
+    width: 350px;
   }
   .main-block .right-block .div-btn .btn {
     width: 140px;
@@ -278,9 +284,6 @@
     width: 55px;
     height: 55px;
   }
-  .card .card-content {
-    margin-right: ;
-  }
   .font-small-roboto {
     font-size: 25px;
   }
@@ -307,7 +310,18 @@
     font-size: 18px;
   }
   .orange-card {
+    width: 750px;
     padding: 100px 16px 40px 16px;
+  }
+  .orange-card h1 {
+    font-size: 20px;
+    width: 300px;
+  }
+  .orange-card .btn {
+    width: 120px;
+  }
+  .orange-card .btn.white-btn {
+    width: 120px;
   }
   .card.reverse-card .card-images img {
     height: 460px;
@@ -316,25 +330,28 @@
     width: 13px;
     height: 13px;
   }
+  .card.reverse-card .card-content {
+    margin: 20px 0 0 105px;
+  }
   .white-block {
-    width: 320px;
+    width: 300px;
     height: 250px;
     padding: 30px 35px 55px 35px;
     margin-left: 240px;
   }
   .photos .col-6 img {
-    width: 400px;
-    height: 230px;
+    width: 340px;
+    height: 200px;
   }
 
   .row.white-blocks .col-4 {
-    width: 350px;
+    width: 300px;
   }
   .row.white-blocks .col-4:nth-child(2) {
-    margin-left: 553px;
+    margin-left: 513px;
   }
   .second-photo {
-    margin-left: 443px;
+    margin-left: 403px;
   }
   .white-blocks .title-font-roboto {
     font-size: 20px;
