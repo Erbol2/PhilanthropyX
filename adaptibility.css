@@ -472,22 +472,35 @@
     font-size: 11px;
   }
   .block-div .col-3:nth-child(1) {
-    padding-left: 100px;
+    padding-left: 50px;
   }
   .block-div .col-3 {
     padding-left: 13px;
   }
   .underline {
-    width: 620px;
-    margin-left: 100px;
+    width: 605px;
+    margin-left: 50px;
   }
   .main-block .left-block {
     width: 300px;
-    margin: 0 20px 0 100px;
+    margin: 0 0 0 50px;
+    height: 700px;
   }
   .main-block .right-block .div-btn {
+    display: flex;
+    flex-direction: column;
+    width: 140px;
+    margin-left: 160px;
+  }
+  .main-block .right-block .div-btn .btn.orange-btn {
+    margin-bottom: 10px;
+  }
+  .main-block .right-block {
+    margin-left: 10px;
     width: 300px;
-    margin-left: 70px;
+  }
+  .main-block .right-block p {
+    margin-bottom: 0;
   }
   .top-navbar img {
     width: 130px;
