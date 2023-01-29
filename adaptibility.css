@@ -797,10 +797,14 @@
     font-size: 11px;
   }
   .card {
+    display: flex;
+    flex-direction: column;
     margin: 160px 50px 50px;
   }
-  .card-content {
-    margin: 10px;
+  .card .card-content {
+    width: 350px;
+    margin-left: 50px;
+    text-align: center;
   }
   .card .font-small-roboto {
     font-size: 21px;
@@ -815,27 +819,31 @@
     width: 100px;
   }
   .card .card-images img {
-    width: 200px;
-    height: 270px;
+    width: 350px;
+    height: 370px;
+    margin: 20px 50px;
   }
   .card img {
     width: 25px;
     height: 25px;
   }
+  .card .card-content .orange-text.small-orange-text {
+    text-align: center;
+  }
   .container .video {
-    width: 480px;
-    margin: -350px 50px 0 50px;
+    width: 490px;
+    margin: -350px 50px 0 30px;
   }
   .container .icon {
     width: 110px;
-    margin-left: 240px;
-    margin-top: -250px;
+    margin-left: 220px;
+    margin-top: -260px;
   }
   .paragraph {
     margin: 50px;
   }
   .topside {
-    margin-left: 50px;
+    margin-left: 30px;
   }
   .topside .btn.orange-btn {
     width: 110px;
@@ -848,7 +856,7 @@
     width: 100px;
   }
   .row.video-text {
-    margin: 50px;
+    margin: 30px;
   }
   .card.card.reverse-card .card-content {
     margin: 0 10px;
@@ -867,18 +875,19 @@
     font-size: 14px;
   }
   .orange-card {
-    margin-left: 50px;
-    width: 480px;
+    margin-left: 30px;
+    width: 490px;
     padding: 60px 10px 35px 10px;
   }
   .orange-card .title-font-roboto {
     font-size: 15px;
   }
   .card.reverse-card {
-    margin-left: 50px;
+    margin-left: 100px;
   }
   .card.reverse-card .card-images img {
-    height: 250px;
+    height: 350px;
+    margin-left: 0;
   }
   .card.reverse-card .card-content p img {
     width: 11px;
@@ -889,10 +898,10 @@
   }
   div.white-block {
     padding: 12px;
-    margin-top: -210px;
-    margin-left: 84px;
-    width: 170px;
-    height: 220px;
+    margin-top: -640px;
+    margin-left: 254px;
+    width: 270px;
+    height: 210px;
   }
   .photos {
     margin-left: 50px;
