@@ -924,9 +924,9 @@
     margin-left: 60px;
     margin-top: 230px;
   }
- 
+
   .second-photo {
-    margin: 310px  0;
+    margin: 310px 0;
   }
   .btns {
     width: 350px;
@@ -1017,7 +1017,7 @@
   }
   .container header {
     margin-left: 10px;
-    height: 150px;
+    height: 260px;
   }
   .container header .content {
     margin-top: 10px;
@@ -1027,7 +1027,7 @@
   }
 
   header .img img {
-    width: 188px;
+    width: 232px;
   }
   main .main-block {
     display: flex;
@@ -1043,9 +1043,11 @@
   }
   main .main-block .left-block {
     width: 400px;
+    margin-left: 30px;
   }
-  main .main.block .right-block {
+  main .main-block .right-block {
     width: 400px;
+    margin-left: 30;
   }
   main .main-block .right-block img.img {
     width: 300px;
@@ -1087,12 +1089,12 @@
   .main-block .right-block .div-btn {
     display: flex;
     flex-direction: column;
-    width: 300px;
-    margin-left: 120px;
+    width: 150px;
+    margin-left: 140px;
   }
   main .main-block .right-block .div-btn .btn {
     margin: 5px;
-    width: 200px;
+    width: 100px;
   }
   .top-navbar img {
     width: 100px;
@@ -1134,7 +1136,7 @@
     width: 100px;
   }
   .card .card-images img {
-    margin-left: 10px;
+    margin-left: 100px;
     width: 250px;
     height: 320px;
   }
@@ -1188,9 +1190,13 @@
   .video-text .col-4 h2 {
     font-size: 14px;
   }
+  .container .row.video-text {
+    margin: 0;
+  }
   .orange-card {
     margin-left: 10px;
     width: 420px;
+    height: 320px;
     padding: 60px 10px 35px 10px;
   }
   .orange-card .vector {
@@ -1209,14 +1215,14 @@
     font-size: 14px;
   }
   .card.reverse-card {
-    margin-left: 10px;
+    margin-left: 50px;
     display: flex;
     flex-direction: column;
   }
   .card.reverse-card .card-images img {
     width: 250px;
     height: 300px;
-    margin: 0 80px 100px;
+    margin: 0 50px 100px;
   }
   .card.reverse-card .card-content p img {
     width: 9px;
@@ -1227,7 +1233,7 @@
   }
   div.white-block {
     padding: 15px;
-    margin: -480px 0 0 200px;
+    margin: -650px 0 0 200px;
     width: 200px;
     height: 200px;
   }
@@ -1255,8 +1261,7 @@
     margin-top: -40px;
   }
   .row.white-blocks .col-4:nth-child(2) {
-    margin-left: 10px;
-    margin-top: 300px;
+    margin: 300px 0 0 10px;
   }
   .second-photo {
     margin: 350px 0;
@@ -1280,8 +1285,8 @@
   }
   footer .footer-card {
     width: 260px;
-    margin-left: 50px;
-    padding: 60px 40px 30px 55px;
+    margin: 0 0 0 50px;
+    padding: 20px 40px 30px 55px;
     height: 250px;
   }
   footer .footer-card .btn.black-btn {
