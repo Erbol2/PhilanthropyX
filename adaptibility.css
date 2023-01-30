@@ -1085,7 +1085,7 @@ body {
     font-size: 9px;
   }
   .block-div .col-3:nth-child(1) {
-    padding: 10px;
+    padding-right: 10px;
   }
   .underline {
     width: 410px;
