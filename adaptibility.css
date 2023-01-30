@@ -1027,7 +1027,8 @@
   }
 
   header .img img {
-    width: 232px;
+    width: 233px;
+    height: 350px;
   }
   main .main-block {
     display: flex;
