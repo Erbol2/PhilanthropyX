@@ -1,6 +1,5 @@
 body {
   overflow-x: hidden; /* Hide scrollbars */
-
 }
 @media screen and (max-width: 1280px) {
   .btn {
@@ -16,7 +15,6 @@ body {
     font-size: 17px;
   }
   header .img img {
-    width: 580px;
     margin-left: 27px;
   }
   .title-font-roboto {
@@ -706,10 +704,15 @@ body {
     margin-right: 0;
   }
   .container header {
+    display: flex;
+    flex-direction: column;
     margin-left: 30px;
+    height: 450px;
   }
   header .content {
-    width: 250px;
+    margin: 0 auto;
+    width: 350px;
+    text-align: center;
   }
   .container .top-navbar .img-div {
     margin: 20px 30px;
@@ -725,13 +728,15 @@ body {
   }
   header .img img {
     width: 273px;
-    margin: -20px;
+    margin: 20px 80px;
   }
   main .main-block {
     display: flex;
     flex-direction: column;
   }
-
+.block-div {
+  margin-top: 210px;
+}
   main .main-block .left-block img {
     width: 350px;
     margin-top: 10px;
@@ -984,8 +989,7 @@ body {
   }
 }
 @media screen and (max-width: 460px) {
-
-  .btn { 
+  .btn {
     padding: 9px 13px 9px 13px;
     font-size: 7px;
     height: 43px;
