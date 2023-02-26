@@ -716,7 +716,7 @@ footer .inline .black-text {
     margin: 0 auto;
     width: 100%;
   }
-  .footer-card  {
+  .footer-card {
     margin: 0 auto;
   }
   .title {
@@ -746,7 +746,19 @@ footer .inline .black-text {
   }
   .card .text {
     width: 270px;
-    margin-left: 110px; }
+    margin-left: 110px;
+  }
+  .bisque .content {
+    flex-direction: column;
+  }
+  .btns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .btns a {
+    margin: 10px 0;
+  }
 }
 @media screen and (max-width: 360px) {
   .container {
